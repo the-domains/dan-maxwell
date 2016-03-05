@@ -1,7 +1,7 @@
-name: Dan Maxwell
+name: Raymond Street
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.04688
+typography_spectrum: 0.07549
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#090909'
-    - '#f9fae8'
-    - '#e39545'
-    - '#5d5a49'
-    - '#84250f'
-  brandStrength: 0.3146293165627867
-  lightness: 0.3125
-  saturation: 0.5625
+    - '#ebf4f1'
+    - '#0b0c11'
+    - '#4a5551'
+    - '#9d0520'
+    - '#f37703'
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.0625
   rhythmicContrast: 0
 purpose: []
